@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #1db954; /* Couleur verte de Spotify par exemple */
+}
+
+.genre-item h5 {
+  color: #1db954;
+}
+
+.card-title {
+  font-weight: bold;
+}
