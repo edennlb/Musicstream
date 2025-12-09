@@ -9,20 +9,6 @@
 .card-title {
   font-weight: bold;
 }
-<<<<<<< HEAD
-.container {
-    padding: 1rem;
-    margin: 0 auto;
-}
-
-@media (min-width: 768px) {
-    .container {
-        padding: 2rem;
-        max-width: 720px;
-    }
-}
-
-=======
 
 .btn-primary {
     background-color: #1da1b9;
@@ -47,4 +33,3 @@
     text-align: center;
 }
  
->>>>>>> 5b94428eceba6b6050f49db19a6a09f0989dddf3
