@@ -9,6 +9,7 @@
 .card-title {
   font-weight: bold;
 }
+<<<<<<< HEAD
 .container {
     padding: 1rem;
     margin: 0 auto;
@@ -21,3 +22,29 @@
     }
 }
 
+=======
+
+.btn-primary {
+    background-color: #1da1b9;
+    border: 0px;
+  }
+ 
+  .btn-primary:hover {
+    background-color: #126675;
+    border: 0px;
+  }
+ 
+ 
+  .hero {
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+}
+ 
+>>>>>>> 5b94428eceba6b6050f49db19a6a09f0989dddf3
